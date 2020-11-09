@@ -1,3 +1,4 @@
+开起BBR锐速
 # Linux-NetSpeed
 ```
 wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh"
